@@ -1,0 +1,5 @@
+{
+  "name": "swag/SwagPiwik",
+  "description": "shopware piwik integration",
+  "type": "shopware-frontend-plugin"
+}
